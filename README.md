@@ -1,2 +1,2 @@
-# lamp-skeleton
-Linux Apache Mysql Php - skeleton for easy start
+# Lamp Skeleton
+Linux Apache Mysql Php - skeleton for easy start-up

@@ -12,14 +12,3 @@
         echo "Installing PHP cli"
 	sudo apt-get install -y php-cli
 	echo "::::::: DONE ::::::"
-
-
-
-
-
-
-
-
-
-
-
